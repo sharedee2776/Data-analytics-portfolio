@@ -25,4 +25,7 @@ Explore Hollywood movie performance based on budget, revenue, ratings, and studi
 - Dashboard screenshots  
 - Project summary  
 
+###  Interactive dashboard
+- View on Tableau Public
+https://public.tableau.com/views/hollywooddata_17647581608120/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
